@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- 
-  欢迎语 — 用 typing SVG 动态效果
-  可自定义: https://readme-typing-svg.demolab.com/
--->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+LuciMessiah+%F0%9F%91%8B;Full-stack+%2F+Backend+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/>
@@ -50,27 +46,24 @@
 
 <div align="center">
 
-<a href="https://github.com/LuciMessiah">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciMessiah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciMessiah&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<!-- stats cards — shields.io 计数徽章，稳定可靠 -->
+![Repo Count](https://img.shields.io/github/lucimessiah/luciMessiah?label=Repos&style=flat-square&color=58A6FF)
+![Total Stars](https://img.shields.io/github/stars/lucimessiah?style=flat-square&color=F0C040)
+![Followers](https://img.shields.io/github/followers/lucimessiah?style=flat-square&color=7C3AED)
 
-<br/>
-
-<!-- 贪吃蛇动画贡献图 (可选，需要额外配置) -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/LuciMessiah/LuciMessio/dist/github-contribution-grid-snake-dark.svg) -->
+<!-- commit/PR/Issue 统计 — 用 GitHub 官方数据 -->
+![Commits](https://img.shields.io/github/commit-activity/y/lucimessiah?style=flat-square&color=2EA043)
+![PRs](https://img.shields.io/github/issues-pr/lucimessiah?style=flat-square&color=DB6D28)
+![Issues](https://img.shields.io/github/issues/lucimessiah?style=flat-square&color=D73A4A)
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📌 Pinned
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LuciMessiah&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<!-- 手动置顶你的重点项目，比自动生成更有针对性 -->
+<!-- 去 GitHub → Profile → Customize your pins 选择仓库 -->
 
 ---
 
