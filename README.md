@@ -5,7 +5,6 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/LuciMessiah?style=social)](https://github.com/LuciMessiah)
-[![GitHub stars](https://img.shields.io/github/stars/LuciMessiah?style=social)](https://github.com/LuciMessiah)
 
 </div>
 
@@ -17,7 +16,6 @@
 - 🌱 Exploring AI infrastructure, LLM tooling & developer experience
 - ⚡ Building with **Python · TypeScript · Go · Rust**
 - 🐧 Linux & WSL enthusiast — automating everything I can
-- 📫 How to reach me: [LuciMessiah@github.com](https://github.com/LuciMessiah)
 
 ---
 
@@ -42,28 +40,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
 
-<div align="center">
-
-<!-- stats cards — shields.io 计数徽章，稳定可靠 -->
-![Repo Count](https://img.shields.io/github/lucimessiah/luciMessiah?label=Repos&style=flat-square&color=58A6FF)
-![Total Stars](https://img.shields.io/github/stars/lucimessiah?style=flat-square&color=F0C040)
-![Followers](https://img.shields.io/github/followers/lucimessiah?style=flat-square&color=7C3AED)
-
-<!-- commit/PR/Issue 统计 — 用 GitHub 官方数据 -->
-![Commits](https://img.shields.io/github/commit-activity/y/lucimessiah?style=flat-square&color=2EA043)
-![PRs](https://img.shields.io/github/issues-pr/lucimessiah?style=flat-square&color=DB6D28)
-![Issues](https://img.shields.io/github/issues/lucimessiah?style=flat-square&color=D73A4A)
-
-</div>
-
----
-
-### 📌 Pinned
-
-<!-- 手动置顶你的重点项目，比自动生成更有针对性 -->
-<!-- 去 GitHub → Profile → Customize your pins 选择仓库 -->
+<!-- 用置顶仓库替代统计卡片，新账号更有说服力 -->
+<!-- 去 https://github.com/LuciMessiah → Profile → Customize your pins 选择 -->
 
 ---
 
